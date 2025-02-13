@@ -56,7 +56,7 @@ VSCode is one of the most popular tools for creating and managing coding project
 I installed VSCode to connect with my instance, so I can create and edit my web app's code.
 
 
-![Image](http://learn.nextwork.org/surprised_black_smart_goose/uploads/aws-devops-vscode_53d05e68)
+![Image](aws-devops-vscode_53d05e68)
 
 ---
 
@@ -68,7 +68,7 @@ A terminal is A terminal is where you send instructions to your computer using t
 I also updated my private key's permissions by running the command: chmod 400 nextwork-keypair.pem
 
 
-![Image](http://learn.nextwork.org/surprised_black_smart_goose/uploads/aws-devops-vscode_9328ada1)
+![Image](aws-devops-vscode_9328ada1)
 
 ---
 
@@ -80,7 +80,7 @@ To connect to my EC2 instance, I ran the command:ssh -i "nextwork-keypair.pem" e
 
 A server's DNS  is the public address for your EC2 server that the internet uses to find and connect to it. The local computer you're using to do this project will find and connect to your EC2 instance through IPv4 DNS.
 
-![Image](http://learn.nextwork.org/surprised_black_smart_goose/uploads/aws-devops-vscode_e3069dca)
+![Image](aws-devops-vscode_e3069dca)
 
 ---
 
@@ -109,7 +109,7 @@ I installed Remote - SSH, which lets VScode connect directly via SSH to another 
 
 Configuration details required to set up a remote connection include Host, Hostname, IdentifyFile, User. 
 
-![Image](http://learn.nextwork.org/surprised_black_smart_goose/uploads/aws-devops-vscode_2939cf01)
+![Image](aws-devops-vscode_2939cf01)
 
 ---
 
@@ -119,7 +119,7 @@ Using VSCode's file explorer, I could see pom.xml file along with src/main folde
 
 The (source) folder holds all the source code files that define how your web app looks and works.src is further divided into , which are the web app's files. 
 
-![Image](http://learn.nextwork.org/surprised_black_smart_goose/uploads/aws-devops-vscode_45f91fd7)
+![Image](aws-devops-vscode_45f91fd7)
 
 ---
 
@@ -129,7 +129,7 @@ index.jsp is a file used in Java web apps. It's similar to an HTML file because 
 
 I edited index.jsp by modifying the <h2> tag and adding a sentence by adding a <p> tag
 
-![Image](http://learn.nextwork.org/surprised_black_smart_goose/uploads/aws-devops-vscode_7a1de541)
+![Image](aws-devops-vscode_7a1de541)
 
 ---
 
@@ -139,7 +139,7 @@ An alternative to using IDEs is by accessing the index.jsp from the terminal. To
 
 Compared to using an IDE, editing index.jsp in the terminal felt more complex. I'd be more likely to use an IDE if there is an option.
 
-![Image](http://learn.nextwork.org/surprised_black_smart_goose/uploads/aws-devops-vscode_a3324ad41)
+![Image](aws-devops-vscode_a3324ad41)
 
 ---
 
