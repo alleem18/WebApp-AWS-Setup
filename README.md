@@ -2,11 +2,16 @@
 
 # Set Up a Web App in the Cloud
 
-**Project Link:** [View Project](https://learn.nextwork.org/surprised_black_smart_goose/portfolio)
+**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-devops-vscode)
 
 **Author:** Aleemuddin Mohammad  
 **Email:** 2747aleem@gmail.com
 
+---
+
+![Image](http://learn.nextwork.org/surprised_black_smart_goose/uploads/aws-devops-vscode_7a1de541)
+
+---
 
 ## Introducing Today's Project!
 
