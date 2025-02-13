@@ -1,8 +1,8 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+
 
 # Set Up a Web App in the Cloud
 
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-devops-vscode)
+**Project Link:** [View Project](https://learn.nextwork.org/surprised_black_smart_goose/portfolio)
 
 **Author:** Aleemuddin Mohammad  
 **Email:** 2747aleem@gmail.com
