@@ -9,7 +9,7 @@
 
 ---
 
-![Image](http://learn.nextwork.org/surprised_black_smart_goose/uploads/aws-devops-vscode_7a1de541)
+![Image](aws-devops-vscode_7a1de541)
 
 ---
 
