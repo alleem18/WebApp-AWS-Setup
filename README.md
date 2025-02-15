@@ -1,15 +1,14 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+
 
 # Set Up a Web App in the Cloud
 
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-devops-vscode)
 
 **Author:** Aleemuddin Mohammad  
-**Email:** 2747aleem@gmail.com
+**Email:** aleemuddin.work@gmail.com
 
 ---
 
-![Image](aws-devops-vscode_7a1de541)
+![Image](https://github.com/alleem18/WebApp-AWS-Setup/blob/main/Screenshot%202025-02-15%20at%205.13.53%E2%80%AFPM.png)
 
 ---
 
